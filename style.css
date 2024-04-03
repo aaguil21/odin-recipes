@@ -1,0 +1,17 @@
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    color: red;
+}
+
+li {
+    padding: 10px;
+    background-color: beige;
+    display: inline-block;
+}
+
+a {
+    font-size: 16px;
+    font-style: italic;
+
+}
